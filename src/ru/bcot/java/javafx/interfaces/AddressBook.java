@@ -1,6 +1,6 @@
-package ru.javabegin.training.fastjava2.javafx.interfaces;
+package ru.bcot.java.javafx.interfaces;
 
-import ru.javabegin.training.fastjava2.javafx.objects.Person;
+import ru.bcot.java.javafx.objects.Person;
 
 public interface AddressBook {
 

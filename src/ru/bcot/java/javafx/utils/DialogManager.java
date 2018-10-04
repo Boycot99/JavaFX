@@ -1,4 +1,4 @@
-package ru.javabegin.training.fastjava2.javafx.utils;
+package ru.bcot.java.javafx.utils;
 
 import javafx.scene.control.Alert;
 

@@ -1,9 +1,9 @@
-package ru.javabegin.training.fastjava2.javafx.interfaces.impls;
+package ru.bcot.java.javafx.interfaces.impls;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import ru.javabegin.training.fastjava2.javafx.interfaces.AddressBook;
-import ru.javabegin.training.fastjava2.javafx.objects.Person;
+import ru.bcot.java.javafx.interfaces.AddressBook;
+import ru.bcot.java.javafx.objects.Person;
 
 import java.util.ArrayList;
 

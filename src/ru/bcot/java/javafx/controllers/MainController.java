@@ -1,4 +1,4 @@
-package ru.javabegin.training.fastjava2.javafx.controllers;
+package ru.bcot.java.javafx.controllers;
 
 import javafx.beans.property.ObjectProperty;
 import javafx.collections.FXCollections;
@@ -18,12 +18,12 @@ import javafx.stage.Modality;
 import javafx.stage.Stage;
 import org.controlsfx.control.textfield.CustomTextField;
 import org.controlsfx.control.textfield.TextFields;
-import ru.javabegin.training.fastjava2.javafx.interfaces.impls.CollectionAddressBook;
-import ru.javabegin.training.fastjava2.javafx.objects.Lang;
-import ru.javabegin.training.fastjava2.javafx.objects.Person;
-import ru.javabegin.training.fastjava2.javafx.start.Main;
-import ru.javabegin.training.fastjava2.javafx.utils.DialogManager;
-import ru.javabegin.training.fastjava2.javafx.utils.LocaleManager;
+import ru.bcot.java.javafx.interfaces.impls.CollectionAddressBook;
+import ru.bcot.java.javafx.objects.Lang;
+import ru.bcot.java.javafx.objects.Person;
+import ru.bcot.java.javafx.start.Main;
+import ru.bcot.java.javafx.utils.DialogManager;
+import ru.bcot.java.javafx.utils.LocaleManager;
 
 import java.io.IOException;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package ru.javabegin.training.fastjava2.javafx.controllers;
+package ru.bcot.java.javafx.controllers;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -7,8 +7,8 @@ import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
-import ru.javabegin.training.fastjava2.javafx.objects.Person;
-import ru.javabegin.training.fastjava2.javafx.utils.DialogManager;
+import ru.bcot.java.javafx.objects.Person;
+import ru.bcot.java.javafx.utils.DialogManager;
 
 import java.net.URL;
 import java.util.Locale;

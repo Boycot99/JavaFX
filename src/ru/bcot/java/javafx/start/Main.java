@@ -1,4 +1,4 @@
-package ru.javabegin.training.fastjava2.javafx.start;
+package ru.bcot.java.javafx.start;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -6,9 +6,9 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import ru.javabegin.training.fastjava2.javafx.controllers.MainController;
-import ru.javabegin.training.fastjava2.javafx.objects.Lang;
-import ru.javabegin.training.fastjava2.javafx.utils.LocaleManager;
+import ru.bcot.java.javafx.controllers.MainController;
+import ru.bcot.java.javafx.objects.Lang;
+import ru.bcot.java.javafx.utils.LocaleManager;
 
 import java.io.IOException;
 import java.util.Locale;

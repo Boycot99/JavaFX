@@ -1,6 +1,6 @@
-package ru.javabegin.training.fastjava2.javafx.utils;
+package ru.bcot.java.javafx.utils;
 
-import ru.javabegin.training.fastjava2.javafx.objects.Lang;
+import ru.bcot.java.javafx.objects.Lang;
 
 import java.util.Locale;
 
