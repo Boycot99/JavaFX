@@ -11,7 +11,6 @@ import ru.bcot.java.javafx.objects.Person;
 import ru.bcot.java.javafx.utils.DialogManager;
 
 import java.net.URL;
-import java.util.Locale;
 import java.util.ResourceBundle;
 
 
@@ -46,6 +45,7 @@ public class EditDialogController implements Initializable{
     public Person getPerson() {
         return person;
     }
+
 
     public void actionClose(ActionEvent actionEvent) {
         Node source = (Node) actionEvent.getSource();

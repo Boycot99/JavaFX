@@ -20,7 +20,7 @@ public class Main extends Application implements Observer {
 
 
     private static final String FXML_MAIN = "../fxml/main.fxml";
-    public static final String BUNDLES_FOLDER = "ru.javabegin.training.fastjava2.javafx.bundles.Locale";
+    public static final String BUNDLES_FOLDER = " ru.bcot.java.javafx.bundles.Locale";
 
     private Stage primaryStage;
 
