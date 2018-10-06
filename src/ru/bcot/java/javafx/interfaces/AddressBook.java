@@ -1,6 +1,6 @@
-package ru.bcot.java.javafx.interfaces;
+package  ru.bcot.java.javafx.interfaces;
 
-import ru.bcot.java.javafx.objects.Person;
+import  ru.bcot.java.javafx.objects.Person;
 
 public interface AddressBook {
 
